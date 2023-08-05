@@ -1,0 +1,46 @@
+Ref,Use Case,Test case,STEPS,Expected Result,Actual Result,Status,Comment
+IVP_1,Launch URL,Test that the user is directed to the ivoryPay app landing page when the application URL is launched,1. serch for the application address on the browser,"1. User should be navigated to the ivory app landnding page
+2. User should see the IvoryPay logo
+3. User should see the login field
+4. User should see the signup CTA","User is directed to the IvoryPay app and user could see 
+
+ User should see the IvoryPay logo
+ User should see the login field
+ User should see the signup CTA",Pass,
+IVP_2,SignUp,Test that the SignUp CTA is clickable,Click on the signup CTA on the IvoryPay landing page,USer should be navigated to the Account creation Form,USer is navigated to the Account creation Form,Pass,
+IVP_3,,Test that the  first name field is a compulsory field,Check the Privacy checkbox and try to submit without first name,There should be a flagwhen the field is empty,The is a flag when the field is empty,Pass,
+IVP_4,,Test that the first name field only accepts Letters ,Input numbers and or special character to the field and submit,There should be a flag whe Letters are not the input in that field,Field accepts inputs of numbers in the name field e.g 123456,Failed,
+IVP_5,,Test that the Last Name field is  compulsory field,Check the Privacy checkbox and try to submit without first name,application  should flag the field as required,application flgged the field as required,Pass,
+IVP_6,,Test that the last name field only accepts letters,Input numbers and or special character to the field and submit,There should be a flag when Letters are not the input in that field,Field accepts inputs of numbers in the name field e.g 123456,Failed,
+IVP_7,,Test that the email field is compulsory field ,Check the Privacy checkbox and try to submit without email,email field should be a compulsory field,email is a compulsory field,Pass,
+IVP_8,,Test that the application validates the email entry field ,Enter random vales that does not follow the email format,application should raise a flag that email is not valid,Application raised a flag that email is not when an invalid email was entered ,Pass,
+IVP_9,,Test that the Business Name field is a compulsory field,Check the Privacy checkbox and try to submit without business name,The appliation should mark the Business Name field as required ,The application marked the Business Name field as required ,Pass,
+IVP_10,,Test user must select a country from the countries drop down to sign up,Check the Privacy checkbox and try to submit without selecting a country,The appliation should mark the country field as required ,The application marked the country field as required ,Pass,
+IVP_11,,Test that the Phone Number field is a compulsory field,Check the Privacy checkbox and try to submit without putting a phone number,The phone number field should be a compulsory field,phone number is a compulsory field,Pass,
+IVP_12,,Test that the application validates the phone number entry,"input numbers not up to 10  and numbes 12 or more and submit
+and also
+use a wrong country code",there should be a flag on the ui when entry is invalid,"The phone number could be 12 or more, which we result to an invalid phone numbers  and there is no frontend validation, user gets an error from backend  when submiiting form, however the error is not descriptive system just returns ""Invalid Data""",Failed,
+IVP_13,,Test that the password  must be at least 8 character,Input character less than 8 ,Password should be at least 8 characters,Password must be at least 8 charaters,Pass,
+IVP_14,,Test that the password must include at least 1 uppercase,Input character that does not include an uppercase,password should include at least 1 uppercase,Password must include at least one uppercase,Pass,
+IVP_15,,Test that the password must include at least a lowercase,Input character that does not include a lowercase,password should include at least 1 lowercase,Password must include at least one lowercase,Pass,
+IVP_16,,Test that the password must include a number ,Input character that does not include a  number,password should include at least 1 number,Password must include at least one number,Pass,
+IVP_17,,Test that the password must include a special charater ,Input character that does not include a special character,password should include at least 1 special character,Password must include at least one special character,Pass,
+IVP_18,,Test that password and confirm password has to match ,Input entries different from the that of password field to the confirm password field,,,Pass,
+IVP_19,,Test that the user must select a business type  they own,,User should select busness type to signup,USer must select business type to signup,Pass,
+IVP_20,,Test that user must confirm if they are developer or not,,USer should confirm to signUP,User must confirm to signUp,Pass,
+IVP_21,,Test that the developers can iput their referral code,,Developersshould be able to input their code,"System is returning  ""Internal Server Error"", when dummy dev referral code is supplied. This is nor a descriptive eror message ",Blocked,
+IVP_22,,Test that developer is taken to the https://www.ivorypay.io/devref when they click on the join referral program link,,,,Pass,
+IVP_23,,Test that the signup CTA is not available until user has checked the Privacy and TCs checkbox,,Privacy policy should be signed before signup,Privacy policy must be signed before signup,Pass,
+IVP_24,,Test that user gets email of product and services only when the the make that option to recieve the mail ,,USer should get email when an email is published ,Not tested,Blocked,
+IVP_25,,"Provided that all conditions are met, Test that user can successfully register ",Fill the form correctly and signup,usr should be navigated to verify email screen,user is navigated to verify email screen,Pass,
+,,Validate that two users can not have the same email,use an already used email to register again,system should flag that email already exist ,system flags that email already exists ,Pass,
+IVP_26,Email Verification,Test that the user gets a verification email when the signup form is submitted,check signup email,user should get verification email,user gets verification email,Pass,
+IVP_27,,Test that the user gets a successfully verified feedback message when they click on the verification link sent to their email,,User should be navigated to the succesfully verify screen,User see  asuccessfully verify message,Pass,
+IVP_28,,"validate that the user is navigated to the company's dashboard when they click on ""Go to dashboard""",click on goto dashboard,User should be taken to the company dashboard,user is taken to the company's dashboard,Pass,
+IVP_29,Resend Verification,Validate that the user get another verification email when they click on resend,Click on resent verification email,user should get the verification link again ,user gets  verification link again,Pass,
+IVP_30,,validate that the initial verification link is deactivated when a new verification link is sent,try to verify with the first verification link sent,the link should expires if another verification link as been sent,The initial link still works for the verification as well,Failed,
+IVP_31,,Validate that user can successfully be verified with the new verification link sent,,user should be able to successfully verify,user can verifyf with the resent link,Pass,
+IVP_32,Compactibility with multiple browser,"Test that the application is compactible with chrome, edge and firefox",access application on these browsers,application should behave the same way,application behaved the same way,Pass,
+IVP_33,Mobile responsiveness,Test that the application is responsive on mobile devices,access application on these mobile devices,application should be responsive on mobile devices,application behaved the same way on mobile devices ,Pass,
+IVP_34,Security,Ensure application connection is secured,clcik on the key on the browser to see details,application should be secured,application connection is secured,Pass,
+IVP_35,,Ensure application certificate is valid,,certificate should be valid,application certificte is valid,Pass,
