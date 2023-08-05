@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_iframe srchttpswww.googletagmanager.co_bc97cb</name>
+   <tag></tag>
+   <elementGuidId>7e61ef78-865d-4f0d-8228-ce373e6872b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>23f3647b-f949-4ad6-a93f-a267948c4e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-KQKJT56&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>You need to enable JavaScript to run this app.Crypto payments for African businessesCreate AccountStart receiving payments in cryptocurrenciesFirst nameLast nameEmail AddressBusiness NameCountryNigeriaNigeriaPhone Number+234 PasswordConfirm PasswordWhat type of business do you own? Starter BusinessI’m testing my ideas with real customers, and preparing to register my company Registered BusinessMy business is approved, documented and licensed to operate legallyAre you a developer?Yes, I amNo, I’m notSend me Information about products, services, deals or recommendations by email (optional)I have read and agree to IvoryPay’s Privacy policy and Terms&amp;ConditionsSign UpAlready have an account?  Log inid(&quot;register&quot;)/div[@class=&quot;ant-form-item ivry-label&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;ant-input-group-wrapper add-on&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group&quot;]/span[@class=&quot;ant-input-group-addon&quot;]fda492ef-766c-40ae-b104-14e5f88ecc2fbdf77856-6dad-4f64-b2bc-96b13b50f33ca72c346f-9e6b-4375-b594-81ac66fa8336GhanaKenyaNigeriaSouth Africa</value>
+      <webElementGuid>6a8748f9-f156-4e74-b1cf-1b10e9b1cfc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>f3e8ca4c-4f43-459e-b952-d9b35eabe362</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>8eee02e2-cc71-47e0-820f-7df3ea89813c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = '&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-KQKJT56&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>You need to enable JavaScript to run this app.Crypto payments for African businessesCreate AccountStart receiving payments in cryptocurrenciesFirst nameLast nameEmail AddressBusiness NameCountryNigeriaNigeriaPhone Number+234 PasswordConfirm PasswordWhat type of business do you own? Starter BusinessI’m testing my ideas with real customers, and preparing to register my company Registered BusinessMy business is approved, documented and licensed to operate legallyAre you a developer?Yes, I amNo, I’m notSend me Information about products, services, deals or recommendations by email (optional)I have read and agree to IvoryPay’s Privacy policy and Terms&amp;ConditionsSign UpAlready have an account?  Log inid(&quot;register&quot;)/div[@class=&quot;ant-form-item ivry-label&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;ant-input-group-wrapper add-on&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group&quot;]/span[@class=&quot;ant-input-group-addon&quot;]fda492ef-766c-40ae-b104-14e5f88ecc2fbdf77856-6dad-4f64-b2bc-96b13b50f33ca72c346f-9e6b-4375-b594-81ac66fa8336GhanaKenyaNigeriaSouth Africa' or . = '&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-KQKJT56&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>You need to enable JavaScript to run this app.Crypto payments for African businessesCreate AccountStart receiving payments in cryptocurrenciesFirst nameLast nameEmail AddressBusiness NameCountryNigeriaNigeriaPhone Number+234 PasswordConfirm PasswordWhat type of business do you own? Starter BusinessI’m testing my ideas with real customers, and preparing to register my company Registered BusinessMy business is approved, documented and licensed to operate legallyAre you a developer?Yes, I amNo, I’m notSend me Information about products, services, deals or recommendations by email (optional)I have read and agree to IvoryPay’s Privacy policy and Terms&amp;ConditionsSign UpAlready have an account?  Log inid(&quot;register&quot;)/div[@class=&quot;ant-form-item ivry-label&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;ant-input-group-wrapper add-on&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group&quot;]/span[@class=&quot;ant-input-group-addon&quot;]fda492ef-766c-40ae-b104-14e5f88ecc2fbdf77856-6dad-4f64-b2bc-96b13b50f33ca72c346f-9e6b-4375-b594-81ac66fa8336GhanaKenyaNigeriaSouth Africa')]</value>
+      <webElementGuid>390ec6a0-ac45-47bc-9333-bdf26d71efa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

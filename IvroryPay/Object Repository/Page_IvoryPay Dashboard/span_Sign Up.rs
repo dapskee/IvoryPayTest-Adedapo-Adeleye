@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign Up</name>
+   <tag></tag>
+   <elementGuidId>479a46ad-6bc6-4dab-a0d6-8473eb8fbfa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='register']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d16897ff-0668-44a5-8a8f-bbb08bbc68db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>43ddf8a6-9459-459e-af4c-cde1b9377e2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register&quot;)/button[@class=&quot;ant-btn ant-btn-default ant-btn-lg  ivry-add-button w-full h-10 md:text-sm text-xs p-2 text-white bg-[#2C3489] active:text-white rounded-md border-0 active:bg-[#2C3489] focus:text-white focus:bg-[#2C3489] hover:bg-[#2C3489]&quot;]/span[1]</value>
+      <webElementGuid>4a138044-25d6-46fb-a8a0-c5584a568ab7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='register']/button/span</value>
+      <webElementGuid>5ad58248-460f-449e-a379-343987cf4dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms&amp;Conditions'])[1]/following::span[1]</value>
+      <webElementGuid>e154bdd4-4808-4ed0-8e5e-a5c6abeef9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::span[1]</value>
+      <webElementGuid>e4f7f56e-a195-4fa9-a937-a9135cdda372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fda492ef-766c-40ae-b104-14e5f88ecc2f'])[1]/preceding::span[1]</value>
+      <webElementGuid>a826ff0f-9da7-49af-b7c7-3a63ff93ef75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Up']/parent::*</value>
+      <webElementGuid>799d30ad-bd1b-4900-a3b1-a4b4598d9777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>24fdae84-0cb6-46e9-8aac-31e9735c0783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign Up' or . = 'Sign Up')]</value>
+      <webElementGuid>f89afd03-141a-4c26-87c1-b6794e5ce440</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
